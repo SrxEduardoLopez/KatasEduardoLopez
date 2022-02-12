@@ -1,3 +1,1 @@
-"# KatasEduardoLopez" 
-"# KatasEduardoLopez" 
-"# KatasEduardoLopez" 
+# Katas realizadas para el onboarding de LaunchX 
